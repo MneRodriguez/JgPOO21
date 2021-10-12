@@ -1,18 +1,29 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using Proyecto26;
+using System.Linq;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public static int scoreDeLaPartida;
+    
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         
     }
+
+    /*public void IncrementScore() ESTE METODO CAPAZ ES EL QUE VA EN LAS CLASES "ModalidadFCE/CAE/CPE"
+    {
+        scoreDeLaPartida++;
+        
+    }*/
 }

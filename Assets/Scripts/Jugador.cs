@@ -15,7 +15,7 @@ public class Jugador
 
     public Jugador()
     {
-        nombreJugador =
-        scoreLogradoPorJugador =
+        nombreJugador = GuardadoDeScores.playerName;
+        scoreLogradoPorJugador = GameManager.scoreDeLaPartida;
     }
 }
