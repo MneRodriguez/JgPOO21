@@ -10,12 +10,17 @@ using System.Linq;
 
 public class Jugador
 {
-    public string nombreJugador;
-    public int scoreLogradoPorJugador;
+    public string nombreJugador { get; set; };
+    public int scoreLogradoPorJugador { get; set; };
 
     public Jugador()
     {
         nombreJugador = GuardadoDeScores.playerName;
         scoreLogradoPorJugador = GameManager.scoreDeLaPartida;
+    }
+
+    public string nombreJugador
+    {
+        get { }
     }
 }
