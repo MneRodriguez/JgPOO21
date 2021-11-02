@@ -20,4 +20,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EscnVerScores.unity
     guid: 0e55260c9034f4545b3d143c2da757d0
+  - enabled: 1
+    path: Assets/Scenes/EscnFCE.unity
+    guid: 38fb0890043b5814cbb34cdeb535d996
+  - enabled: 1
+    path: Assets/Scenes/EscnCAE.unity
+    guid: 38245dd148df31141982cee3159f719b
+  - enabled: 1
+    path: Assets/Scenes/EscnCPE.unity
+    guid: f3bea72feffae044498ff7abcbcff54f
+  - enabled: 1
+    path: Assets/Scenes/EscnDerrotaFCE.unity
+    guid: ff4d4c1e8af31a74aa7c6e4b0e44b432
+  - enabled: 1
+    path: Assets/Scenes/EscnVictoriaFCE.unity
+    guid: b611c801f3e025248b410aa56c403d76
+  - enabled: 1
+    path: Assets/Scenes/EscnDerrotaCAE.unity
+    guid: 761c06b605b1449439b96f4e3292592e
+  - enabled: 1
+    path: Assets/Scenes/EscnVictoriaCAE.unity
+    guid: 2196cb2acaddaa24f991bbb405b483f3
+  - enabled: 1
+    path: Assets/Scenes/EscnDerrotaCPE.unity
+    guid: 8626c7d293c9b98418abda8073334f3b
+  - enabled: 1
+    path: Assets/Scenes/EscnVictoriaCPE.unity
+    guid: c0db851a41d5aca4bb3e2aaaedcd8034
   m_configObjects: {}

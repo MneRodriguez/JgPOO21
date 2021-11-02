@@ -13,4 +13,9 @@ public class CambioDeEscena : MonoBehaviour
     {
         SceneManager.LoadScene(nombreEscenaDeJuego);
     }
+
+    public void CerrarJuego()
+    {
+        Application.Quit();
+    }
 }
