@@ -1,18 +1,16 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using Proyecto26;
+using System.Linq;
 
-public class NewBehaviourScript : MonoBehaviour
+public class CambioDeEscena : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void CargaScene(string nombreEscenaDeJuego)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        SceneManager.LoadScene(nombreEscenaDeJuego);
     }
 }

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using Proyecto26;
 using System.Linq;
 
@@ -10,8 +11,8 @@ using System.Linq;
 
 public class Jugador
 {
-    public string nombreJugador { get; set; };
-    public int scoreLogradoPorJugador { get; set; };
+    public string nombreJugador { get; set; }
+    public int scoreLogradoPorJugador { get; set; }
 
     public Jugador()
     {
@@ -19,8 +20,8 @@ public class Jugador
         scoreLogradoPorJugador = GameManager.scoreDeLaPartida;
     }
 
-    public string nombreJugador
+    /*public string nombreJugador
     {
         get { }
-    }
+    }*/
 }
