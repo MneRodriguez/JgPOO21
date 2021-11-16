@@ -4,47 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/MenuPcpal.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/EscnInstrccs.unity
-    guid: d7331d0020a18eb4897da2747b7dd67f
-  - enabled: 1
-    path: Assets/Scenes/EscnCreds.unity
-    guid: 91a89208595a7274eb2fd8e569282f81
-  - enabled: 1
-    path: Assets/Scenes/EscnElegirModo.unity
-    guid: 412e797bd6344fa41be621885ba2d0bc
-  - enabled: 1
-    path: Assets/Scenes/EscnVerScores.unity
-    guid: 0e55260c9034f4545b3d143c2da757d0
-  - enabled: 1
-    path: Assets/Scenes/EscnFCE.unity
-    guid: 38fb0890043b5814cbb34cdeb535d996
-  - enabled: 1
-    path: Assets/Scenes/EscnCAE.unity
-    guid: 38245dd148df31141982cee3159f719b
-  - enabled: 1
-    path: Assets/Scenes/EscnCPE.unity
-    guid: f3bea72feffae044498ff7abcbcff54f
-  - enabled: 1
-    path: Assets/Scenes/EscnDerrotaFCE.unity
-    guid: ff4d4c1e8af31a74aa7c6e4b0e44b432
-  - enabled: 1
-    path: Assets/Scenes/EscnVictoriaFCE.unity
-    guid: b611c801f3e025248b410aa56c403d76
-  - enabled: 1
-    path: Assets/Scenes/EscnDerrotaCAE.unity
-    guid: 761c06b605b1449439b96f4e3292592e
-  - enabled: 1
-    path: Assets/Scenes/EscnVictoriaCAE.unity
-    guid: 2196cb2acaddaa24f991bbb405b483f3
-  - enabled: 1
-    path: Assets/Scenes/EscnDerrotaCPE.unity
-    guid: 8626c7d293c9b98418abda8073334f3b
-  - enabled: 1
-    path: Assets/Scenes/EscnVictoriaCPE.unity
-    guid: c0db851a41d5aca4bb3e2aaaedcd8034
+  m_Scenes: []
   m_configObjects: {}
